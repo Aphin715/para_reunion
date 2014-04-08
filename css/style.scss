@@ -59,7 +59,7 @@ html, body{
 }
 
 #slide1{
-  background-image:url("../img/slide1/cabin.jpg");
+  background-image:url("../img/slide1/bg2.jpg");
   -webkit-background-size:cover;
   -moz-background-size:cover;
   -o-background-size:cover;
@@ -67,12 +67,12 @@ html, body{
 
 }
 
-.slide-1-loge{
+.slide-1-logo{
   text-align:center;
 }
 
 #slide2{
-  background-image:url("../img/slide2/solotree.jpg");
+  background-image:url("../img/slide2/reunion-full.jpg");
   -webkit-background-size:cover;
   -moz-background-size:cover;
   -o-background-size:cover;
@@ -87,10 +87,16 @@ html, body{
 
 #slide4{
 
-background-image:url("../img/slide4/china_red_sun.jpg");
+background-image:url("../img/slide4/birds.jpg");
   -webkit-background-size:cover;
   -moz-background-size:cover;
   -o-background-size:cover;
   background-size:cover;
   z-index:9
+}
+
+.title1{
+  font-family:helvetica;
+  font-size:80px;
+  color:white;
 }
