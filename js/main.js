@@ -49,4 +49,6 @@ jQuery(document).ready(function ($) {
         dataslide = $(this).attr('data-slide');
         goToByScroll(dataslide);
     });
+    $(".button").css("cursor","pointer");
 });
+
