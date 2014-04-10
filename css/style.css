@@ -96,13 +96,12 @@ html, body {
   height: 100%; }
 
 .info {
-  width: 100%;
-  height: 100%;
-  margin: 0; }
+  margin: 0 auto; }
 
 .subtitle {
   font-family: helvetica;
   font-size: 34px;
   color: lightgray;
   margin: 0 auto;
-  margin-top: 200px; }
+  margin-top: 200px;
+  font-weight: bold; }
